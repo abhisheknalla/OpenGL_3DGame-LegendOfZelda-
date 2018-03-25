@@ -1,0 +1,5 @@
+TO RUN THE GAME
+1. Go inside directory OpenGL_3DGame-LegendOfZelda-/graphics-boilerplate-master
+2. make a directory build
+3. inside build, run cmake .., then make all
+4. run executable ./graphics_asgn1
